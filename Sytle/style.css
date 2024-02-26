@@ -1,8 +1,10 @@
 header {
 }
 
-.firt-header {
+.firt-div {
+  background-color: black;
 }
 
 .title {
+  color: white;
 }
